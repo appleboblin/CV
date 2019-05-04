@@ -282,10 +282,8 @@ var $container = $('.row.masonry');
 	$container.masonry({
 	itemSelector : '.resume-boxe.masonry, .item-block.masonry'
 
-import commentBox from 'commentbox.io';
-commentBox('5684359101153280-proj');
 });
-	
+
 });
 
 
