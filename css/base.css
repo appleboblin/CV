@@ -1,3 +1,26 @@
+/*
+*	DIFFERENCE (HTML version)
+* 	Copyright 2016
+* 	www.mutationmedia.net
+* 	Created by : mutationthemes
+*
+*/
+
+
+
+/* Table of Content
+==================================================
+1-Reset & Basics
+2-Basic Styles
+3-Typography
+4-Links
+5-Misc
+
+
+
+
+/* Reset & Basics (Inspired by E. Meyers)*/
+
 *, *:before, *:after {
     -moz-box-sizing: border-box;
 	-webkit-box-sizing :border-box;
